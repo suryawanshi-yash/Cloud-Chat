@@ -41,10 +41,10 @@ By adopting serverless computing, this chat application achieves:
 
 ## 🚀 Getting Started
 
-2. Frontend Setup:
-     Open index.html in your browser to launch the chat interface.
+### Frontend Setup:
+     - Open index.html in your browser to launch the chat interface.
 
-3. Backend (AWS Deployment):
+### Backend (AWS Deployment):
    Deploy Lambda functions via AWS Console or use AWS SAM / Serverless Framework
 
       Configure API Gateway for messaging endpoints

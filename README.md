@@ -39,16 +39,22 @@ By adopting serverless computing, this chat application achieves:
 
 ---
 
+### 🌐 Live Website
+
+Check out the live version of the chat app here:  
+👉 [**Click to Visit**](https://suryawanshi-yash.github.io/Cloud-Chat/)
+
+
 ## 🚀 Getting Started
 
 ### Frontend Setup:
-     - Open index.html in your browser to launch the chat interface.
+- Open index.html in your browser to launch the chat interface.
 
 ### Backend (AWS Deployment):
    Deploy Lambda functions via AWS Console or use AWS SAM / Serverless Framework
 
-      Configure API Gateway for messaging endpoints
+- Configure API Gateway for messaging endpoints
       
-      Set up Cognito user pool for authentication
+- Set up Cognito user pool for authentication
       
-      Provision DynamoDB tables for storing chat data
+- Provision DynamoDB tables for storing chat data

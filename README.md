@@ -7,10 +7,7 @@ Proud to present **Project #2** – a real-time chat application built using **A
 
 ## ✅ Features
 
-- Real-time messaging with AWS Lambda & API Gateway  
-- Secure user authentication via AWS Cognito  
-- Scalable, high-speed storage using DynamoDB  
-- Real-time monitoring with CloudWatch  
+- Real-time messaging with AWS Lambda & API Gateway   
 - Fully serverless: no infrastructure management  
 - Auto-scaling and cost-efficient  
 
@@ -19,10 +16,7 @@ Proud to present **Project #2** – a real-time chat application built using **A
 ## 🔍 Tech Stack in Action
 
 - **AWS Lambda** – Event-driven backend logic  
-- **API Gateway** – Handles real-time HTTP requests  
-- **DynamoDB** – Serverless NoSQL database  
-- **Cognito** – Authentication and identity management  
-- **CloudWatch** – Logs and performance monitoring  
+- **API Gateway** – Handles real-time HTTP requests   
 - **HTML / CSS / JavaScript** – Simple and responsive frontend  
 
 ---
@@ -55,6 +49,4 @@ Check out the live version of the chat app here:
 
 - Configure API Gateway for messaging endpoints
       
-- Set up Cognito user pool for authentication
-      
-- Provision DynamoDB tables for storing chat data
+
